@@ -1,0 +1,1 @@
+**Contenu :** ``` # OS .DS_Store Thumbs.db  # IDE .vscode/ .idea/ *.swp *.swo  # Build target/ build/ dist/ *.log  # Docker .dockerignore  # Sensitive *.pem *.key secrets/
